@@ -36,6 +36,10 @@
       "type": "uid",
       "targetField": "nome",
       "required": true
+    },
+      "desconto": {
+      "type": "decimal",
+      "default": 0
     }
   }
 }
